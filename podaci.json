@@ -1,0 +1,49 @@
+{
+  "wardrobe":[
+  {
+    "name": "Blue Jeans",
+    "category": "Pants",
+    "size": "M",
+    "color": "Blue",
+    "brand": "Levi's",
+    "purchaseDate": "2022-01-01",
+    "image": "https://example.com/blue-jeans.jpg"
+  },
+  {
+    "name": "Black T-Shirt",
+    "category": "Shirts",
+    "size": "S",
+    "color": "Black",
+    "brand": "H&M",
+    "purchaseDate": "2022-02-15",
+    "image": "https://example.com/black-tshirt.jpg"
+  },
+  {
+    "name": "Red Sweater",
+    "category": "Sweaters",
+    "size": "L",
+    "color": "Red",
+    "brand": "Zara",
+    "purchaseDate": "2021-11-30",
+    "image": "https://example.com/red-sweater.jpg"
+  },
+  {
+    "name": "Green Hoodie",
+    "category": "Sweatshirts",
+    "size": "XL",
+    "color": "Green",
+    "brand": "Nike",
+    "purchaseDate": "2022-03-20",
+    "image": "https://example.com/green-hoodie.jpg"
+  },
+  {
+    "name": "Brown Leather Shoes",
+    "category": "Shoes",
+    "size": "9",
+    "color": "Brown",
+    "brand": "Clarks",
+    "purchaseDate": "2022-04-10",
+    "image": "https://example.com/brown-shoes.jpg"
+  }
+]
+}
